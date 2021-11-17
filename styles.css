@@ -15,7 +15,7 @@
 
 .logo::before{
     content: "";
-    background: url("/images/team-seas-logo.png");
+    background: url("/images/team-seas-logo.PNG");
     position: absolute;
     width: 100%;
     height: 100%;
